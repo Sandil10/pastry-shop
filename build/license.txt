@@ -1,0 +1,13 @@
+SITHURASA POS - END USER LICENSE AGREEMENT (EULA)
+
+1. LICENSE GRANT: Sithurasa grants you a non-exclusive license to use this POS software for your business operations.
+
+2. DATA PRIVACY: All data is stored locally on this machine. You are responsible for your own data backups.
+
+3. RESTRICTIONS: You may not reverse engineer, decompile, or disassemble the software.
+
+4. UPDATES: The software will periodically check for updates via the internet.
+
+5. NO WARRANTY: The software is provided "AS IS" without warranty of any kind. 
+
+Copyright (c) 2026 Sithurasa. All rights reserved.
